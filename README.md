@@ -1,4 +1,4 @@
-# Literature search Chapter 5 Section 5.1 Roles & Responsibilities
+# Literature search Chapter 5 Section 5.2 Motivations, Challenges, Risks and Opportunities
 
 [![DOI](https://zenodo.org/badge/DOI/9999999999.svg)](https://doi.org/9999999999)
 [![GitHub release](https://img.shields.io/github/release/IPBES-Data/IPBES_BBA_Ch6_fin.svg)](https://github.com/IPBES-Data/IPBES_BBA_Ch6_fin/releases/latest)
@@ -15,17 +15,17 @@ Once finalised, the final repo will be published on Zenodo
 
 ## Metadata
 
-- **Project name**: Literature search for Chapter 5 Section 5.1 Roles & Responsibilities
+- **Project name**: Literature search for Chapter 5 Section 5.2 Motivations, Challenges, Risks and Opportunities
 - **Assessment**: Business and Biodiversity Assessment
-- **Chapter**: Chapter 5 Section 5.1
-- **Short Name**: IPBES_BBA_Ch5_R&R
+- **Chapter**: Chapter 5 Section 5.2
+- **Short Name**: IPBES_BBA_Ch5_MCRO
 
 - **Requested by**: [Tuan Nguyen](mailto:tuan.nguyen@uhasselt.be)
 - **Requested in/during**: 
 
 - **Context**:
-- **Task(s)**: Conduct literature search for Chapter 5 Section 5.1 Roles & Responsibilities. At the moment, a
-snowball search (PBES_BBA_Ch5_RR_snowball) is planned.
+- **Task(s)**: Conduct literature search for Chapter 5 Section 5.2 Motivations, Challenges, Risks and Opportunities. At the moment, a
+snowball search (PBES_BBA_Ch5_MCRO_snowball) is planned.
 - **Contact point from the expert team**:
   - [Tuan Nguyen](mailto:tuan.nguyen@uhasselt.be)
 - **Contact point from BBA tsu**:
@@ -61,6 +61,6 @@ snowball search (PBES_BBA_Ch5_RR_snowball) is planned.
 
 ## Reports
 
-- [Snowball Report](IPBES_BBA_Ch5_RR_snowball.html)
+- [Snowball Report](IPBES_BBA_Ch5_MCRO_snowball.html)
 
 <!-- - [Keyword Report](IPBES_BBA_Ch6_Fin_keyword.html) -->
