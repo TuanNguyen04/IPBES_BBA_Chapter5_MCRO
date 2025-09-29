@@ -24,8 +24,7 @@ Once finalised, the final repo will be published on Zenodo
 - **Requested in/during**: 
 
 - **Context**:
-- **Task(s)**: Conduct literature search for Chapter 5 Section 5.2 Motivations, Challenges, Risks and Opportunities. At the moment, a
-snowball search (PBES_BBA_Ch5_MCRO_snowball) is planned.
+- **Task(s)**: Conduct literature search for Chapter 5 Section 5.2 Motivations, Challenges, Risks and Opportunities. A snowball search was conducted and resulted in the file snowball_manual_export.xlsx.
 - **Contact point from the expert team**:
   - [Tuan Nguyen](mailto:tuan.nguyen@uhasselt.be)
 - **Contact point from BBA tsu**:
@@ -42,7 +41,7 @@ snowball search (PBES_BBA_Ch5_MCRO_snowball) is planned.
 
 ## Folders
 
-- **`data`**: data files created during the running of the code file and contains cached as well as final data files.
+- **`data`**: data files created during the running of the code file and contain cached as well as final data files.
 - **`figures`**: figures created during the running of the code` file in low-res as well as high-res.
 - **`input`**: input files used to run the code in the repo. These are mostly provided by the experts
 - **`R`**: R scripts used to run the code in the repo. Files in this folder will be sourced initially.
