@@ -55,8 +55,7 @@ Once finalised, the final repo will be published on Zenodo
 ## Status
 
 - [x] Project created
-- [x] Initial Snowball search conducted
-- [ ] supplement references with ISBNs
+- [x] Snowball search conducted
 
 ## Reports
 
