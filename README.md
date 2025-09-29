@@ -35,7 +35,7 @@ Once finalised, the final repo will be published on Zenodo
 - **CC**:
   - [TSU BBA](mailto:tsu.bizbiodiversity@gmail.com)
 - **Timeline and deadline**:
-- **Latest status**: Ongoing
+- **Latest status**: Completed
 
 - **Github Repo**: 
 
